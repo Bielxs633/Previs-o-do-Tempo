@@ -12,16 +12,16 @@ Este projeto é um **Aplicativo de Previsão do Tempo** que consome dados de uma
 ---
 
 ## Funcionalidades
-- **Busca por cidade**: Digite o nome de uma cidade para obter a previsão do tempo.
-- **Dados meteorológicos detalhados**:
+1. **Busca por cidade**: Digite o nome de uma cidade para obter a previsão do tempo.
+2. **Dados meteorológicos detalhados**:
   - Temperatura atual;
   - Condições climáticas (ex.: ensolarado, nublado, chuvoso);
-- Umidade.
+3. **Umidade**.
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Git**
