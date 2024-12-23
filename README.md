@@ -24,4 +24,5 @@ Este projeto é um **Aplicativo de Previsão do Tempo** que consome dados de uma
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Markdown**
 - **Git**
